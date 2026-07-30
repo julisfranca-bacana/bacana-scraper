@@ -1,0 +1,13 @@
+{
+  "name": "bacana-scraper",
+  "version": "1.0.0",
+  "description": "BACANA Wealth Scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "playwright": "^1.54.1"
+  }
+}
