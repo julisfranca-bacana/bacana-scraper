@@ -4,6 +4,7 @@
   "description": "BACANA Wealth Scraper",
   "main": "index.js",
   "scripts": {
+    "postinstall": "playwright install chromium",
     "start": "node index.js"
   },
   "dependencies": {
